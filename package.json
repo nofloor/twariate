@@ -1,0 +1,25 @@
+{
+  "name": "twariate",
+  "version": "0.1.0",
+  "description": "Tailwind CSS variable generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nofloor/twariate.git"
+  },
+  "author": "Taha Kelesoglu (@nofloor)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nofloor/twariate/issues"
+  },
+  "homepage": "https://github.com/nofloor/twariate#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "color": "^4.0.1"
+  }
+}
